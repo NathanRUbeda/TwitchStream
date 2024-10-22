@@ -7,18 +7,28 @@
 
 import SwiftUI
 
+@Observable
+class StreamViewModel {
+	var isFetching = false
+	var streams: [Stream]
+	
+	init(streams: [Stream] = []) {
+		self.streams = streams
+	}
+}
+
 struct ContentView: View {
+	let streams: [Stream]
+	
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+		ScrollView {
+			ForEach(self.streams) { stream in
+				StreamBadgeView(stream: stream)
+			}
+		}
     }
 }
 
-#Preview {
-    ContentView()
-}
+//#Preview {
+//    ContentView()
+//}
