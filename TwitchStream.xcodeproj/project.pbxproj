@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B1B48D5A2CC07953000EDCE6 /* ComposableArchitecturePattern in Frameworks */ = {isa = PBXBuildFile; productRef = B1B48D592CC07953000EDCE6 /* ComposableArchitecturePattern */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		B1B48D0D2CC0782B000EDCE6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -29,9 +33,22 @@
 		B1B48D162CC0782B000EDCE6 /* TwitchStreamUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwitchStreamUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B1C7FA362CC2B46E0050FDE2 /* Exceptions for "TwitchStream" folder in "TwitchStream" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = B1B48CFA2CC07829000EDCE6 /* TwitchStream */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B1B48CFD2CC07829000EDCE6 /* TwitchStream */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B1C7FA362CC2B46E0050FDE2 /* Exceptions for "TwitchStream" folder in "TwitchStream" target */,
+			);
 			path = TwitchStream;
 			sourceTree = "<group>";
 		};
@@ -52,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1B48D5A2CC07953000EDCE6 /* ComposableArchitecturePattern in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +96,7 @@
 				B1B48CFD2CC07829000EDCE6 /* TwitchStream */,
 				B1B48D0F2CC0782B000EDCE6 /* TwitchStreamTests */,
 				B1B48D192CC0782B000EDCE6 /* TwitchStreamUITests */,
+				B1B48D582CC07953000EDCE6 /* Frameworks */,
 				B1B48CFC2CC07829000EDCE6 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +109,13 @@
 				B1B48D162CC0782B000EDCE6 /* TwitchStreamUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B1B48D582CC07953000EDCE6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +138,7 @@
 			);
 			name = TwitchStream;
 			packageProductDependencies = (
+				B1B48D592CC07953000EDCE6 /* ComposableArchitecturePattern */,
 			);
 			productName = TwitchStream;
 			productReference = B1B48CFB2CC07829000EDCE6 /* TwitchStream.app */;
@@ -195,6 +222,9 @@
 			);
 			mainGroup = B1B48CF22CC07829000EDCE6;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				B1B48D572CC07935000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = B1B48CFC2CC07829000EDCE6 /* Products */;
 			projectDirPath = "";
@@ -396,6 +426,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TwitchStream/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -435,6 +466,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TwitchStream/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -591,6 +623,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B1B48D572CC07935000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jonnyholland/ComposableArchitecturePattern";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B1B48D592CC07953000EDCE6 /* ComposableArchitecturePattern */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B1B48D572CC07935000EDCE6 /* XCRemoteSwiftPackageReference "ComposableArchitecturePattern" */;
+			productName = ComposableArchitecturePattern;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B1B48CF32CC07829000EDCE6 /* Project object */;
 }
