@@ -1,0 +1,436 @@
+{
+	"data": [
+		{
+			"id": "41780200007",
+			"user_id": "132004305",
+			"user_login": "darumaisgod",
+			"user_name": "だるまいずごっど",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "ギャング３日目",
+			"viewer_count": 70963,
+			"started_at": "2024-12-04T08:59:16Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_darumaisgod-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780196263",
+			"user_id": "49207184",
+			"user_login": "fps_shaka",
+			"user_name": "fps_shaka",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "あぶない刑事",
+			"viewer_count": 45247,
+			"started_at": "2024-12-04T08:57:13Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fps_shaka-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780234711",
+			"user_id": "119506529",
+			"user_login": "rader",
+			"user_name": "らっだぁ",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "闇医者するぞ【VCRGTA3 3日目】",
+			"viewer_count": 33558,
+			"started_at": "2024-12-04T09:17:17Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rader-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語",
+				"ネタバレ注意",
+				"ネタバレ禁止",
+				"伝書鳩禁止"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41779888743",
+			"user_id": "545050196",
+			"user_login": "kato_junichi0817",
+			"user_name": "うん〇ちゃん",
+			"game_id": "511399",
+			"game_name": "Super Mario Maker 2",
+			"type": "live",
+			"title": "根性で盛るマリオメーカー39歳の挑戦",
+			"viewer_count": 33332,
+			"started_at": "2024-12-04T05:45:20Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kato_junichi0817-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"加藤純一",
+				"雑談",
+				"雑談歓迎",
+				"雑談〇",
+				"雑談大好き",
+				"日本語",
+				"MURASHGAMING",
+				"MRGWIN"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306827176",
+			"user_id": "738000896",
+			"user_login": "evelone2004",
+			"user_name": "evelone2004",
+			"game_id": "509658",
+			"game_name": "Just Chatting",
+			"type": "live",
+			"title": "ку",
+			"viewer_count": 33039,
+			"started_at": "2024-12-04T14:01:18Z",
+			"language": "ru",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_evelone2004-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Русский"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780198727",
+			"user_id": "217871888",
+			"user_login": "kanae_2434",
+			"user_name": "叶ちゃんねる",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "VCRGTA3 ３日目 「黒より黒く 」",
+			"viewer_count": 30302,
+			"started_at": "2024-12-04T08:58:40Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kanae_2434-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780752999",
+			"user_id": "44525650",
+			"user_login": "k4sen",
+			"user_name": "k4sen",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "GTA 説明書読んだ",
+			"viewer_count": 24974,
+			"started_at": "2024-12-04T12:35:56Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_k4sen-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語",
+				"ネタバレNG",
+				"ネタバレ注意",
+				"聞いてないアドバイス禁止"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780196231",
+			"user_id": "50988750",
+			"user_login": "stylishnoob4",
+			"user_name": "stylishnoob4",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "筋トレしてます。いつか市民を救うと信じて",
+			"viewer_count": 18823,
+			"started_at": "2024-12-04T08:57:11Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stylishnoob4-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語",
+				"感謝します"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306304440",
+			"user_id": "45044816",
+			"user_login": "montanablack88",
+			"user_name": "MontanaBlack88",
+			"game_id": "27471",
+			"game_name": "Minecraft",
+			"type": "live",
+			"title": "FitnaCraft 3.0 🔥 HEUTE WIRD ES BRENNEN 🔥 ESKALATION 3.0 🔥 HYPED 🔥",
+			"viewer_count": 18784,
+			"started_at": "2024-12-04T12:31:51Z",
+			"language": "de",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_montanablack88-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Deutsch",
+				"Zuschauerbelohnungen"
+			],
+			"is_mature": true
+		},
+		{
+			"id": "43306090360",
+			"user_id": "117011503",
+			"user_login": "jeanmassiet",
+			"user_name": "JeanMassiet",
+			"game_id": "509658",
+			"game_name": "Just Chatting",
+			"type": "live",
+			"title": "CENSURE WAITING ROOM 16h : Censure !Kisskiss !Backseat",
+			"viewer_count": 16772,
+			"started_at": "2024-12-04T11:50:07Z",
+			"language": "fr",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jeanmassiet-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"France",
+				"Politique",
+				"Actu",
+				"Actualité",
+				"News",
+				"vulgarisation",
+				"talkshow",
+				"Démocratie",
+				"Français"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "45114747499",
+			"user_id": "151368796",
+			"user_login": "piratesoftware",
+			"user_name": "PirateSoftware",
+			"game_id": "213930085",
+			"game_name": "Honkai: Star Rail",
+			"type": "live",
+			"title": "Honkai: Star Rail 💜 !HSR 💛 #Sponsored",
+			"viewer_count": 15565,
+			"started_at": "2024-12-04T07:59:09Z",
+			"language": "en",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_piratesoftware-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Chatting",
+				"Memes",
+				"English",
+				"GameDevelopment",
+				"Programming",
+				"PixelArt",
+				"NotMyBirthday",
+				"DropsEnabled"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306257432",
+			"user_id": "39154778",
+			"user_login": "recrent",
+			"user_name": "Recrent",
+			"game_id": "493057",
+			"game_name": "PUBG: BATTLEGROUNDS",
+			"type": "live",
+			"title": "ОБНОВЛЕНИЕ. ДОБАВИЛИ РАЗРУШАЕМОСТЬ // !tg !мерч",
+			"viewer_count": 14575,
+			"started_at": "2024-12-04T12:22:58Z",
+			"language": "ru",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_recrent-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Русский"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306464712",
+			"user_id": "182560660",
+			"user_login": "worldoftanks",
+			"user_name": "WorldofTanks",
+			"game_id": "27546",
+			"game_name": "World of Tanks",
+			"type": "live",
+			"title": "Well Deserved Reward News coming soon",
+			"viewer_count": 13636,
+			"started_at": "2024-12-04T13:00:52Z",
+			"language": "en",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_worldoftanks-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"WorldofTanks",
+				"English",
+				"DropsEnabled"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306801160",
+			"user_id": "48189727",
+			"user_login": "t2x2",
+			"user_name": "T2x2",
+			"game_id": "509658",
+			"game_name": "Just Chatting",
+			"type": "live",
+			"title": "╭( ͡°͡° ͜ʖ ͡°͡°)╮ | Тг: t.me/t2xtwitch",
+			"viewer_count": 12723,
+			"started_at": "2024-12-04T13:58:02Z",
+			"language": "ru",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_t2x2-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Русский"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "45114965355",
+			"user_id": "45098797",
+			"user_login": "cdawgva",
+			"user_name": "CDawgVA",
+			"game_id": "509658",
+			"game_name": "Just Chatting",
+			"type": "live",
+			"title": "IRL IN TOKYO NIGHT DRINKING WITH @PREMIERTWO | !pete !roomreviews !submissions !merch !award !travel",
+			"viewer_count": 12602,
+			"started_at": "2024-12-04T09:44:49Z",
+			"language": "en",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cdawgva-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"English"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780301783",
+			"user_id": "528127240",
+			"user_login": "wenlobong",
+			"user_name": "玩樂幫",
+			"game_id": "55453844",
+			"game_name": "Street Fighter 6",
+			"type": "live",
+			"title": "人鬼師徒S4 EP4. 心戰鬥智：策略交鋒  @uma_kagami @arubi1988 @yoro1027 @zjz510 @uzra",
+			"viewer_count": 12129,
+			"started_at": "2024-12-04T09:54:25Z",
+			"language": "zh",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wenlobong-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"中文",
+				"聊天",
+				"streeetfighter6"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41781090279",
+			"user_id": "203654142",
+			"user_login": "fantasista_jp",
+			"user_name": "ファン太",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "VCR GTA 3日目",
+			"viewer_count": 11074,
+			"started_at": "2024-12-04T14:19:09Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fantasista_jp-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語",
+				"雑談"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43306357768",
+			"user_id": "87186401",
+			"user_login": "lenagol0vach",
+			"user_name": "LenaGol0vach",
+			"game_id": "29595",
+			"game_name": "Dota 2",
+			"type": "live",
+			"title": "🏆 ЧЕМПИОН МИРА В ДОТЕ 🏆 АПАЕМ 14 000ммр 🏆НАШЕЛ ИМБУ 🏆",
+			"viewer_count": 10726,
+			"started_at": "2024-12-04T12:42:19Z",
+			"language": "ru",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lenagol0vach-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"Русский"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "41780251015",
+			"user_id": "71181639",
+			"user_login": "peintooon",
+			"user_name": "ぺいんと",
+			"game_id": "32982",
+			"game_name": "Grand Theft Auto V",
+			"type": "live",
+			"title": "【VCRGTA3】この病院で僕が1番偉いけど質問ある?",
+			"viewer_count": 9457,
+			"started_at": "2024-12-04T09:26:27Z",
+			"language": "ja",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_peintooon-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"日本語",
+				"ぺいんと",
+				"鳩コメ禁止",
+				"ネタバレ禁止",
+				"指示コメ禁止",
+				"アドバイス禁止",
+				"VCRGTA"
+			],
+			"is_mature": false
+		},
+		{
+			"id": "43276629897",
+			"user_id": "26610234",
+			"user_login": "cohhcarnage",
+			"user_name": "CohhCarnage",
+			"game_id": "29106",
+			"game_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+			"type": "live",
+			"title": "STALKER 2 (Main Story HYPE!) - POE 2 (Big Lore Run) DEC 9th @ 8am ET!) - !Emberville / !Cohhvatars / !ChonkSweater",
+			"viewer_count": 9305,
+			"started_at": "2024-12-04T12:30:13Z",
+			"language": "en",
+			"thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cohhcarnage-{width}x{height}.jpg",
+			"tag_ids": [],
+			"tags": [
+				"English",
+				"Parent",
+				"Chıll",
+				"ADHD",
+				"moderated",
+				"NoPolitics",
+				"NoReligion",
+				"GameDevWelcome",
+				"Interactive"
+			],
+			"is_mature": false
+		}
+	],
+	"pagination": {
+		"cursor": "eyJiIjp7IkN1cnNvciI6ImV5SnpJam8zTURrMk15NDNNelV5TXpZeU1UWXlPQ3dpWkNJNlptRnNjMlVzSW5RaU9uUnlkV1Y5In0sImEiOnsiQ3Vyc29yIjoiZXlKeklqbzROamN6TGpVeE5EYzJNRFl5TWpjd05pd2laQ0k2Wm1Gc2MyVXNJblFpT25SeWRXVjkifX0"
+	}
+}
