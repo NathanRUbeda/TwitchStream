@@ -9,6 +9,7 @@ import ComposableArchitecturePattern
 import Foundation
 import OSLog
 
+/// An actor that handles server interactions.
 actor TwitchServer: Server {
 	var environments: [ServerEnvironment]
 	var additionalHTTPHeaders: [String : String]?

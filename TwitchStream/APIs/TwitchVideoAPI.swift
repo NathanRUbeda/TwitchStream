@@ -1,22 +1,22 @@
 //
-//  TwitchAuthAPI.swift
+//  TwitchVideoAPI.swift
 //  TwitchStream
 //
-//  Created by Nathan Ubeda on 10/18/24.
+//  Created by Nathan Ubeda on 10/23/24.
 //
 
 import ComposableArchitecturePattern
 import Foundation
 
 /// An object that specifies a server API.
-struct TwitchAuthAPI: ServerAPI {
+struct TwitchVideoAPI: ServerAPI {
 	init(
 		environment: ServerEnvironment?,
-		path: String = "token",
+		path: String = "videos",
 		headers: [String : String]?,
 		queries: [URLQueryItem]?,
-		supportedHTTPMethods: [HTTPMethod] = [.POST],
-		supportedReturnObjects: [any Codable.Type]? = [Credential.self],
+		supportedHTTPMethods: [HTTPMethod] = [.GET],
+		supportedReturnObjects: [any Codable.Type]? = [VideoResponse.self],
 		timeoutInterval: TimeInterval = 1000
 	) {
 		self.environment = environment
@@ -27,19 +27,6 @@ struct TwitchAuthAPI: ServerAPI {
 		self.supportedReturnObjects = supportedReturnObjects
 		self.timeoutInterval = timeoutInterval
 		self.strictEnvironmentEnforcement = false
-		
-		if let clientID = ProcessInfo.processInfo.environment["API_Client_ID"],
-		   let clientSecret = ProcessInfo.processInfo.environment["API_Client_Secret"] {
-			let grantType = "client_credentials"
-			
-			let body = "client_id=\(clientID)&client_secret=\(clientSecret)&grant_type=\(grantType)".data(using: .utf8)!
-			self.body = body
-		}
-	}
-	
-	/// Conforms to Equatable protocol.
-	static func == (lhs: Self, rhs: Self) -> Bool {
-		return lhs.id == rhs.id
 	}
 	
 	let id = UUID()
@@ -53,3 +40,4 @@ struct TwitchAuthAPI: ServerAPI {
 	var supportedReturnObjects: [any Codable.Type]?
 	var timeoutInterval: TimeInterval
 }
+

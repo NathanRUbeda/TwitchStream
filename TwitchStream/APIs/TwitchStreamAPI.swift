@@ -8,6 +8,7 @@
 import ComposableArchitecturePattern
 import Foundation
 
+/// An object that specifies a server API.
 struct TwitchStreamAPI: ServerAPI {
 	init(
 		environment: ServerEnvironment?,
@@ -29,6 +30,7 @@ struct TwitchStreamAPI: ServerAPI {
 		self.strictEnvironmentEnforcement = false
 	}
 	
+	/// Conforms to Equatable protocol.
 	static func == (lhs: Self, rhs: Self) -> Bool {
 		return lhs.id == rhs.id
 	}
